@@ -2,11 +2,11 @@
 
 ## Description
 
-# This is a sample website made to orientate to common use coding of HTML GIT JAVA and CSS
+ This is a sample website made to orientate to common use coding of HTML GIT JAVA and CSS
 
 ## Installation
 
-# N/A
+N/A
 
 ## Usage
 
@@ -14,7 +14,7 @@
 
 ## Credits
 
-# N/A
+ N/A
 
 ## License
 
